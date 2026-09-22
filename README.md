@@ -23,7 +23,7 @@ To explore the technical implementation of this pipeline and visualization layer
     *   [Tableau Workbook (Packaged)](./dashboards/ecommerce_executive_analytics.twbx) — *The interactive workbook containing KPIs, executive-ready visual stories, dashboards, calculated fields, actions, and parameters.*
 
 *   **Executive Summary and Reports:**
-    *   [Executive Summary]() — *Summary of numerous reports containing main findings and numbers, recommendations, conclusion, and call-to-action sections for management.*
+    *   [Executive Summary](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/ExecutiveSummary.md) — *Summary of numerous reports containing main findings and numbers, recommendations, conclusion, and call-to-action sections for management.*
     *   [Profitability and Cost Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/PROFITABILITY%20AND%20COST%20ANALYSIS%20REPORT.pdf)
     *   [Products and Channel Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/PRODUCTS%20AND%20CHANNEL%20ANALYSIS%20REPORT.pdf)
     *   [Marketing Spend Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/MARKETING%20SPEND%20REPORT.pdf)
