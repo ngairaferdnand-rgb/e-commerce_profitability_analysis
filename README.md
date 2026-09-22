@@ -25,10 +25,7 @@ To explore the technical implementation of this pipeline and visualization layer
 *   **Executive Summary and Reports:**
     *   [Executive Summary](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/ExecutiveSummary.md) — *Summary of numerous reports containing main findings and numbers, recommendations, conclusion, and call-to-action sections for management.*
     *   [Profitability and Cost Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/PROFITABILITY%20AND%20COST%20ANALYSIS%20REPORT.pdf)
-    *   [Products and Channel Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/PRODUCTS%20AND%20CHANNEL%20ANALYSIS%20REPORT.pdf)
-    *   [Marketing Spend Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/MARKETING%20SPEND%20REPORT.pdf)
-    *   [Payment Method Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/PAYMENT%20METHOD%20ANALYSIS%20REPORT.pdf)
-    *   [Supplier Analysis Report](https://github.com/ngairaferdnand-rgb/e-commerce_profitability_analysis/blob/main/SUPPLIER%20ANALYSIS%20REPORT.pdf)
+        
 ---
 
 ## 🛠️ Data Pipeline Architecture (Python Implementation)
